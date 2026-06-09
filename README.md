@@ -8,8 +8,6 @@
 
 </div>
 
-<br/>
-
 ### 👨‍💻 &nbsp; Sobre mim
 
 ```python
@@ -34,7 +32,6 @@ Desenvolvedor **Back-End** focado no ecossistema **Python** (Django, DRF e FastA
 
 </div>
 
-<br/>
 
 **Back-End** &nbsp;·&nbsp; `Python` `Django` `DRF` `FastAPI` `Node.js` `TypeScript`
 
@@ -44,7 +41,7 @@ Desenvolvedor **Back-End** focado no ecossistema **Python** (Django, DRF e FastA
 
 <br/>
 
-## 📊 &nbsp; GitHub Stats
+### 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
@@ -56,3 +53,11 @@ Desenvolvedor **Back-End** focado no ecossistema **Python** (Django, DRF e FastA
 </a>
 
 </div>
+
+<br/>
+
+### 🎓 &nbsp; Formação
+ 
+- **CST em Inteligência Artificial Aplicada** — PUCPR · *2025–2027 (em andamento)*
+- **Formação Executiva em Python e IA** — Asimov Academy · *2025–2026 (em andamento)*
+- **Desenvolvimento Web Full-Stack (1.500+ h)** — Trybe · *2023–2024*
