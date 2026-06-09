@@ -8,6 +8,25 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/johnathan-spinola-20b967257">
+  <img src="./assets/linkedin_ring.svg" height="40" align="middle" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:johnathan.saboia18@gmail.com">
+  <img src="./assets/gmail_ring.svg" height="40" align="middle" alt="Gmail" />
+</a>
+&nbsp;&nbsp;
+<img src="./assets/views_ring.svg" height="40" align="middle" alt="Visitas" />
+&nbsp;
+<img src="https://visitor-badge.laobi.icu/badge?page_id=johnsls.johnsls&left_color=%238b5cf6&right_color=%238b5cf6&left_text=%20" height="20" align="middle" alt="Perfil visitado" />
+
+
+</div>
+
+</div>
+
 ### 👨‍💻 &nbsp; Sobre mim
 
 ```python
@@ -24,6 +43,7 @@ Desenvolvedor **Back-End** focado no ecossistema **Python** (Django, DRF e FastA
 
 <br/>
 
+
 ### ⚙️ &nbsp; Stack
 
 <div align="center">
@@ -31,7 +51,6 @@ Desenvolvedor **Back-End** focado no ecossistema **Python** (Django, DRF e FastA
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,ts,postgres,docker,git,linux&theme=dark" />
 
 </div>
-
 
 **Back-End** &nbsp;·&nbsp; `Python` `Django` `DRF` `FastAPI` `Node.js` `TypeScript`
 
@@ -61,3 +80,17 @@ Desenvolvedor **Back-End** focado no ecossistema **Python** (Django, DRF e FastA
 - **CST em Inteligência Artificial Aplicada** — PUCPR · *2025–2027 (em andamento)*
 - **Formação Executiva em Python e IA** — Asimov Academy · *2025–2026 (em andamento)*
 - **Desenvolvimento Web Full-Stack (1.500+ h)** — Trybe · *2023–2024*
+
+<br/>
+
+<div align="center">
+
+##### 📫 &nbsp; Contate-me
+<a href="https://www.linkedin.com/in/johnathan-spinola-20b967257">
+  <img src="./assets/linkedin_solid.svg" height="44" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:johnathan.saboia18@gmail.com">
+  <img src="./assets/gmail_solid.svg" height="44" alt="Gmail" />
+</a>
+</div>
