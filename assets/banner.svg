@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0418"/>
+      <stop offset="0.5" stop-color="#140a30"/>
+      <stop offset="1" stop-color="#0a0418"/>
+    </linearGradient>
+    <linearGradient id="textGrad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="520" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="0.5" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+      <animate attributeName="x1" values="-320;520" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="200;1040" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity:.5 } 50% { opacity:1 } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+
+  <!-- grade sutil -->
+  <g stroke="#6d28d9" stroke-opacity="0.08">
+    <line x1="100" y1="0" x2="100" y2="320"/>
+    <line x1="300" y1="0" x2="300" y2="320"/>
+    <line x1="900" y1="0" x2="900" y2="320"/>
+    <line x1="1100" y1="0" x2="1100" y2="320"/>
+    <line x1="0" y1="80" x2="1200" y2="80"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+  </g>
+
+  <!-- cantos circuito -->
+  <g stroke="#8b5cf6" stroke-opacity="0.35" stroke-width="2" fill="none">
+    <path d="M40 40 L120 40 L150 70"/>
+    <circle cx="150" cy="70" r="4" fill="#a855f7" stroke="none" class="pulse"/>
+    <path d="M1160 280 L1080 280 L1050 250"/>
+    <circle cx="1050" cy="250" r="4" fill="#3b82f6" stroke="none" class="pulse"/>
+  </g>
+
+  <!-- particulas subindo -->
+  <g fill="#a855f7">
+    <circle cx="180" cy="280" r="2"><animate attributeName="cy" values="300;30" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="340" cy="280" r="2.5" fill="#6366f1"><animate attributeName="cy" values="300;20" dur="9s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="9s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="280" r="2" fill="#3b82f6"><animate attributeName="cy" values="300;40" dur="8s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="8s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle cx="1020" cy="280" r="2.5"><animate attributeName="cy" values="300;25" dur="6.5s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="6.5s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="280" r="2" fill="#6366f1"><animate attributeName="cy" values="300;35" dur="10s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="10s" begin="1.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- textos -->
+  <text x="600" y="118" text-anchor="middle" font-size="22" fill="#c4b5fd" letter-spacing="8" class="pulse">JOHNATHAN SPINOLA</text>
+  <text x="600" y="185" text-anchor="middle" font-size="62" font-weight="800" fill="url(#textGrad)" filter="url(#glow)">Back-End Developer</text>
+
+  <line x1="430" y1="208" x2="770" y2="208" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" stroke-dasharray="340">
+    <animate attributeName="stroke-dashoffset" values="340;0;0;340" dur="6s" repeatCount="indefinite"/>
+  </line>
+
+  <text x="600" y="252" text-anchor="middle" font-size="20" fill="#94a3b8" letter-spacing="2">Python &#183; Django &#183; FastAPI &#183; APIs REST &#183; Automa&#231;&#227;o</text>
+</svg>
