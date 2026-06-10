@@ -42,3 +42,17 @@ Desenvolvedor **Back-End** focado no ecossistema **Python** (Django, DRF e FastA
 
 **Qualidade & Automação** &nbsp;·&nbsp; `Pytest` `TDD` `SOLID` `Clean Code` `RPA` `LangChain`
 
+<br/>
+
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/johnsls">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=johnsls&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&border_radius=8&title_color=a855f7&icon_color=6366f1&text_color=c4b5fd&bg_color=120,0a0418,140a30&ring_color=a855f7" />
+</a>
+<a href="https://github.com/johnsls">
+  <img height="60" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsls&layout=compact&hide_border=true&langs_count=8&card_width=320&border_radius=8&title_color=a855f7&text_color=c4b5fd&bg_color=120,0a0418,140a30" />
+</a>
+
+</div>
