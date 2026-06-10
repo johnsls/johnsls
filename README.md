@@ -24,4 +24,21 @@ class JohnathanSpinola:
 
 Desenvolvedor **Back-End** focado no ecossistema **Python** (Django, DRF e FastAPI) e em **Node.js / TypeScript**. Construo **APIs REST**, integro sistemas e automatizo processos (**RPA**), com base sólida em **Clean Code**, testes, **SOLID** e **CI/CD**. Atualmente aprofundando **Inteligência Artificial Aplicada**.
 
-<img src="https://github.com/johnsls/johnsls/blob/output/github-contribution-grid-snake-dark.svg" />
+<br/>
+
+### ⚙️ &nbsp; Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,ts,postgres,docker,git,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+**Back-End** &nbsp;·&nbsp; `Python` `Django` `DRF` `FastAPI` `Node.js` `TypeScript`
+
+**Banco & DevOps** &nbsp;·&nbsp; `PostgreSQL` `Docker` `Git` `Linux` `CI/CD`
+
+**Qualidade & Automação** &nbsp;·&nbsp; `Pytest` `TDD` `SOLID` `Clean Code` `RPA` `LangChain`
+
